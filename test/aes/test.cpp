@@ -1,8 +1,8 @@
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
-#include "AES.h"
-#include "Annotation.h"
+#include "aes.h"
+#include "annotation.h"
 
 char *input;
 char enc[100] = "\xce\x6a\x64\x09\x74\x00\xf7\xf0\x86\x31\x5b\x78\xe3\x05\x6f\xfa\xcf\x31\x00\x45\xff\x19\xdf\xeb\xea\xcc\x33\x97\x26\xce\xbc\xa3"; 

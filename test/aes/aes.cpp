@@ -1,4 +1,4 @@
-#include "AES.h"
+#include "aes.h"
 
 AES::AES(BYTE* key, int keyLen){
     this->key = key;
